@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hot-Shot Tracker</string>
+    <string name="s1">Its Burger-Time!</string>
+    <string name="s2">Eat A Burger</string>
+    <string name="s3">View Statistics</string>
+    <string name="s4">Alarm Settings</string>
+    <string name="s5">Friends</string>
+
+    <string name="b1">El Classico - \nklassisch mit Housesoße.</string>
+    <string name="b2">Running Cheese - \nCheddarkäse</string>
+    <string name="b3">Bills Hot Shot - \nJalapenos und \nHot-Shot Soße</string>
+    <string name="b4">Mikeys Finest - \nHähnchen-\nbrustfilet</string>
+    <string name="b5">Dallas - \nMais und \nBBQ-Sauße</string>
+    <string name="b6">The German - \nSauerkraut und \nEdamerkäse</string>
+    <string name="b7">Sorry Mr. Beef - \nCrispychicken</string>
+    <string name="b8">Burgeriums Best - \nPotatoes und \nMöhren</string>
+    <string name="b9">Save Piggys Bacon - \nBacon und \nSpiegelei</string>
+    <string name="b10">The Italian Job - \nMozarella und \nSalami</string>
+    <string name="b11">Old Alis Farm - \nNussschinken und \nFetakäse</string>
+    <string name="b12">Relaxes - \nAnanas und \nCheddarkäse</string>
+    <string name="b13">Onos Tofu - \nVegetarisch \nmit Tofu</string>
+    <string name="b14">Orient Express - \nVegetarisch \nmit Halloumi</string>
+    <string name="b15">Little Italy - \nVegetarisch \nmit Pesto, Mozarella und Ruccola</string>
+    <string name="b16">Eat Up Your Greens - \nVegetarisch \nmit Gemüsefrikadelle</string>
+
+
+    <string name="action_settings">Eat it, NOW!</string>
+</resources>
